@@ -1,0 +1,6 @@
+create a new folder /home/ubuntu_name/uploadfile
+create a new folder /home/ubuntu_name/download
+
+change your path what is your ubuntu_name
+
+run (python server.py)
